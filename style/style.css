@@ -71,7 +71,7 @@ h1 {
     padding-bottom: 0.2rem;
 }
 
-.footer .present {
+.presented {
     float: right;
     margin-right: 0.5rem;
 }
@@ -117,5 +117,10 @@ h1 {
 
     .img-right {
         right: 0px;
+    }
+
+    .presented {
+        float: none;
+        font-size: 3rem;
     }
 }
