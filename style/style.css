@@ -105,9 +105,9 @@ h1 {
 
     .img-left,
     .img-right {
-        top: 1rem;
+        top: auto;
         width: 20vw;
-        bottom: 50px;
+        bottom: 0;
         position: absolute;
     }
 
