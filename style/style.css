@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "Tourney";
+    src: url(../font/tourney.ttf) format("truetype");
+}
+
 html {
     background: linear-gradient(to right, rgb(0, 208, 149), rgb(0, 133, 155));
     /* background: radial-gradient(rgb(181, 45, 45), rgb(83, 12, 12)) */
